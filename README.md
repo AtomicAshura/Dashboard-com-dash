@@ -1,0 +1,2 @@
+# Dashboard-com-dash
+ Este é um repositório que contém um Dashboard completo, feito inteiramente em Python, utilizando a biblioteca Dash como principal ferramenta de desenvolvimento. Com este Dashboard, é possível visualizar e interagir com diversos dados, através de gráficos e tabelas dinâmicas. Além disso, o Dashboard conta com uma interface amigável e intuitiva, que permite a fácil navegação entre as diferentes funcionalidades disponíveis.
